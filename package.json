@@ -2,7 +2,7 @@
   "name": "otus_reactjs_lifecycle",
   "version": "0.1.2",
   "private": true,
-  "homepage": "https://khi-mik.github.io/OTUS_ReactJS_LifeCycle/",
+  "homepage": "https://github.com/khi-mik/React_JS_OTUS_Lifecycle",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
